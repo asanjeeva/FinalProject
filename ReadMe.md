@@ -6,6 +6,6 @@ Today, I am going to walk you through the absolute basics of HTML. This is for a
 Navigate the following tutorials here:
 
 * [HelloWorld](./HelloWorld.md)
-* [BasicStructure](./BasicStructure.md)
+* [Paragraphs](./Paragraphs.md)
 * [Basic Form](./BasicForm.md)
 * [Learn More](./LearnMore.md)
