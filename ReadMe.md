@@ -7,5 +7,5 @@ Navigate the following tutorials here:
 
 * [HelloWorld](./HelloWorld.md)
 * [BasicStructure](./BasicStructure.md)
-* [Hobbies](./hobby.md)
+* [Basic Form](./BasicForm.md)
 * [Boxing Result](./boxing.md)
