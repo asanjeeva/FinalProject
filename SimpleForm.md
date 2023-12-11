@@ -1,40 +1,30 @@
 # Code Sample
 
 
-Here is a look at some basic structure in HTML.
+Here is a look at creating a simple form in HTML.
 
 ### HTML
 ```html
-<!-- Basic HTML document structure with header, navigation, section, and footer -->
+<!-- Creating a simple form -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Basic Structure</title>
+    <!-- The title of the webpage that appears on the browser tab -->
+    <title>Simple Form</title>
 </head>
 <body>
-    <!-- Header section with a heading -->
-    <header>
-        <h1>My Website</h1>
-    </header>
-    <!-- Navigation section with an unordered list -->
-    <nav>
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
-    <!-- Main section with an article -->
-    <section>
-        <article>
-            <!-- Article title and content -->
-            <h2>Article Title</h2>
-            <p>This is a basic article.</p>
-        </article>
-    </section>
-    <!-- Footer section with a copyright notice -->
-    <footer>
-        <p>&copy; 2023 My Website</p>
-    </footer>
+    <!-- Heading 1 element to display a main heading -->
+    <h1>Contact Me</h1>
+
+    <!-- Form element with input fields for name and email -->
+    <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <input type="submit" value="Submit">
+    </form>
 </body>
 </html>
