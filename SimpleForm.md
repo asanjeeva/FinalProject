@@ -1,7 +1,7 @@
 # Code Sample
 
 
-Here is a look at creating a simple form in HTML.
+Here is how to create a simple form in HTML.
 
 ### HTML
 ```html
