@@ -1,7 +1,7 @@
 # Paragraphs in HTML
 
 
-The <p> element is used to define paragraphs of text. It is a block-level element that adds spacing above and below the content.
+The Paragraph or p element is used to define paragraphs of text. It is a block-level element that adds spacing above and below the content.
 
 ### HTML
 ```html
