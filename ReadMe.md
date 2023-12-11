@@ -7,5 +7,5 @@ Navigate the following tutorials here:
 
 * [HelloWorld](./HelloWorld.md)
 * [BasicStructure](./BasicStructure.md)
-* [Basic Form](./BasicForm.md)
+* [Basic Form](./SimpleForm.md)
 * [Learn More](./LearnMore.md)
