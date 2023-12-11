@@ -8,4 +8,4 @@ Navigate the following tutorials here:
 * [HelloWorld](./HelloWorld.md)
 * [BasicStructure](./BasicStructure.md)
 * [Basic Form](./BasicForm.md)
-* [Learn More(./LearnMore.md)
+* [Learn More](./LearnMore.md)
