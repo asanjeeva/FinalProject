@@ -1,6 +1,6 @@
 # Images in HTML
 
-The image or IMG Element in HTML is used to embed images on a webpage. This requires the src attribute to specify the image file's url
+The image or IMG Element in HTML is used to embed images on a webpage. This requires the src attribute to specify the image file's url.
 
 ### HTML
 ```html
