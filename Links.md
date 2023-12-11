@@ -1,4 +1,4 @@
-# Links ('<a>') in HTML
+# Links in HTML
 
 
 The a or anchor element is HTML is used to create hyperlinks. It allows users to navigate to other websites or to access different resources.
