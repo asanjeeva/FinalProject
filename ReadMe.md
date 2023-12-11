@@ -8,4 +8,4 @@ Navigate the following tutorials here:
 * [HelloWorld](./HelloWorld.md)
 * [Paragraphs](./Paragraphs.md)
 * [Links](./Links.md)
-* [Learn More](./LearnMore.md)
+* [Images](./Images.md)
